@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/VishalPortfolio2/static/css/main.6330080d.css",
+    "main.js": "/VishalPortfolio2/static/js/main.217ac669.js",
+    "static/media/deepak(cv).pdf": "/VishalPortfolio2/static/media/deepak(cv).c1eef92dd356fb3cfa07.pdf",
+    "static/media/1234.png": "/VishalPortfolio2/static/media/1234.4946fd1a818244399fad.png",
+    "static/media/deepak.png": "/VishalPortfolio2/static/media/deepak.4946fd1a818244399fad.png",
+    "static/media/groupchat.jpeg": "/VishalPortfolio2/static/media/groupchat.d4267c24f0f06ea13c4d.jpeg",
+    "static/media/ecommerce.jpeg": "/VishalPortfolio2/static/media/ecommerce.e8cfe739eb1aa2dbc1f4.jpeg",
+    "static/media/booking.jpeg": "/VishalPortfolio2/static/media/booking.701bad40cc05dff609fc.jpeg",
+    "static/media/expense.jpeg": "/VishalPortfolio2/static/media/expense.8de22e2e8bcc495dc846.jpeg",
+    "static/media/123.jpeg": "/VishalPortfolio2/static/media/123.5df6cf40bfa2c8683c1a.jpeg",
+    "index.html": "/VishalPortfolio2/index.html",
+    "main.6330080d.css.map": "/VishalPortfolio2/static/css/main.6330080d.css.map",
+    "main.217ac669.js.map": "/VishalPortfolio2/static/js/main.217ac669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6330080d.css",
+    "static/js/main.217ac669.js"
+  ]
+}
